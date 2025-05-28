@@ -21,5 +21,6 @@ How to Run
 
 
 
-Made by Aiman Ahmed and inspired by my habit of playing 2048 and the different albums of Taylor Swift
+Made by Aiman Ahmed and inspired by my habit of playing 2048 and the different albums of Taylor Swift!
+Implemented a full playable version of 2048 using Python and Pygame. Added image assets, tile merging logic, and win/lose condition handling. Gained experience working with event loops, collision logic, and asset loading in Pygame.
 
