@@ -9,7 +9,7 @@ How to Run
 
 1. **Clone the repo**
 
-   git clone https://github.com/your-username/taylor-swift-2048.git
+   git clone https://github.com/aimanahmedd/taylor_swift_2048.git
    cd taylor-swift-2048
 
 
